@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.imgSize {
+  min-height: 150px;
+}
+
+.tmbSize {
+  min-height: 45px;
+}
