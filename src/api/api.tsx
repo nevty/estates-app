@@ -2,7 +2,7 @@ import axios from "axios"
 import {EstateType, SubmitClientDataType, LoginAdminDataType, EstateLayoutsType} from "../types/types";
 import {GetTokenType} from "../utils/sessionStorage";
 
-const url = "http://localhost:3003";
+const url = "http://api.estates.nej3no.tech/";
 
 const instance = axios.create({
     baseURL: url,
